@@ -70,3 +70,5 @@ Terdapat 6 soal dengan variasi bentuk pernyataan logika:
   - Implementasi visual truth table
   - Tambah soal dengan Biimplikasi (↔)
 
+---
+[Instagram](https://www.instagram.com/mianaqu/)
